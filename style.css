@@ -1,0 +1,75 @@
+
+.navbar {
+    margin: 10px;
+    background-color: #4682B4;
+   
+    color:white;
+
+}
+
+ input[type="text"] {
+    
+            border-top: transparent ;
+            border-left: transparent ;
+            border-right: transparent ;
+            border-color: cyan cyan #808080 cyan;
+            width:  350px;         
+   
+}
+
+
+select { 
+      border-top: transparent ;
+      border-left: transparent ;
+      border-right: transparent ;
+      border-color: cyan cyan #808080 cyan;
+     width:  350px; 
+    -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url(image/2.jpg) no-repeat;
+  background-size: 12px;
+  background-position: calc(100% - 20px) center;
+  background-repeat: no-repeat;
+}
+
+
+ input[type="submit"] {
+    background-color: #4682B4;
+    color:white;
+    width:  350px;
+    height: 40px;  
+    margin-left:250px;
+    margin-top: 80px;       
+   
+}
+
+#content-search{
+margin:0 auto;
+width: 800px;
+background-color: white;
+height: 500px;
+box-shadow: ;
+border: 1px solid;
+ }
+ 
+ #content-process{
+margin: 0 auto;
+width: 1000px;
+background-color: white;
+height: 1000px;
+box-shadow: ;
+border: ;
+ }
+
+ .end{
+position: relative;
+margin: 10px;
+margin-top: 120px;
+height: 50px;
+background-color: #4682B4;
+color: white;
+
+}
+
+

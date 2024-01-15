@@ -1,0 +1,200 @@
+
+
+.navbar {
+    margin: 10px;
+    background-color: #4682B4;
+    color:white;
+  
+
+}
+.footer {
+    margin: 10px;
+    background-color: #4682B4;
+    color:white;
+  
+
+}
+
+ input[type="text"],input[type="password"] {
+    
+            border-top: transparent ;
+            border-left: transparent ;
+            border-right: transparent ;
+            border-color: cyan cyan #808080 cyan;
+            width:  350px;         
+   
+}
+
+
+select { 
+      border-top: transparent ;
+      border-left: transparent ;
+      border-right: transparent ;
+      border-color: cyan cyan #808080 cyan;
+     width:  350px; 
+    -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url(image/2.jpg) no-repeat;
+  background-size: 12px;
+  background-position: calc(100% - 20px) center;
+  background-repeat: no-repeat;
+}
+
+
+ input[type="submit"] {
+    background-color: #4682B4;
+    color:white;
+    width:  350px;
+    height: 40px;  
+    margin-left:250px;
+    margin-top: 30px;       
+   
+}
+ #loginbtn{
+    background-color: #4682B4;
+    color:white;
+    width:  150px;
+    height: 40px;  
+    margin-left:70px;
+    margin-top: 30px;       
+   
+}
+ .submit {
+    background-color: #4682B4;
+    color:white;
+    width:  350px;
+    height: 40px;  
+    margin-left:250px;
+    margin-top: 100px;       
+   
+}
+.sidebar{
+height: 500px;
+width: 15%;
+margin-top: 30px;
+background-color:#000000;
+text-align: center;
+margin-left:10px;
+color: #FFFFFF;
+}
+
+.sidebar a{
+color: #FFFFFF;
+text-decoration: none;
+}
+
+ #content-table{
+margin-left: 250px;
+width:1050px;
+margin-top: -500px;
+background-color: white;
+box-shadow: 5px 10px;
+border: 1px solid;
+ }
+
+#content-pass{
+margin-left: 250px;
+width: 800px;
+margin-top: -500px;
+background-color: white;
+height: 500px;
+box-shadow: 5px 10px;
+border: 1px solid;
+ }
+
+#content-login{
+margin: 0 auto ;
+width: 300px;
+margin-top:50px ;
+background-color: white;
+height: 400px;
+box-shadow: 5px 10px;
+border: 1px solid;
+ }
+
+ #content{
+margin-left:250px ;
+width: 920px;
+margin-top:-500px ;
+background-color: white;
+height: 500px;
+box-shadow: 5px 10px;
+border: 1px solid;
+ }
+#content-home{
+position: absolute;
+margin-left:250px ;
+width: 920px;
+margin-top:-500px ;
+background-color: white;
+height: 300px;
+box-shadow: 5px 10px;
+border: 1px solid;
+}
+ .tile{
+margin-left:30px ;
+width: 230px;
+margin-top:30px ;
+background-color: white;
+height: 180px;
+box-shadow: 5px 10px;
+border: 1px solid;
+ }
+#username,#password{
+width: 220px;
+
+ }
+.image{
+  margin-top: -50px;
+  margin-left: 600px;
+}
+
+
+.form{
+  margin-top: 30px;"
+}
+.table-hover{
+margin-left: 1px;
+
+}
+.end{
+position: relative;
+margin: 10px;
+margin-top: 230px;
+height: 50px;
+background-color: #4682B4;
+color: white;
+
+}
+.end1{
+position: relative;
+margin: 10px;
+margin-top: 600px;
+height: 50px;
+background-color: #4682B4;
+color: white;
+
+}
+.graphs{
+height: 680px;
+margin-left:px ;
+width: 920px;
+margin-top:120px ;
+background-color: white;
+box-shadow: 5px 10px;
+border: 1px solid
+}
+
+#chart-1{
+ margin-top: 20px;
+ margin-left: 30px;
+}
+
+.graphs a{
+padding :30px 50px;
+      }
+
+.active{
+color:black;
+      }
