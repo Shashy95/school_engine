@@ -1,2 +1,2 @@
-School Search Engine is a user-friendly school search system designed to revolutionize the way students, parents, and educators discover educational institutions. 
-This powerful platform is crafted to simplify the school search process, providing comprehensive and insightful information to aid informed decision-making.
+School Search Engine is a user-friendly school search system designed to revolutionize the way students, parents, and educators discover educational institutions.  Users can input criteria such as location, academic programs, extracurricular activities, and admission requirements to discover schools that match their specific needs.
+This powerful platform is crafted to simplify the school search process, providing comprehensive and insightful information such as location, academic results, extracurricular activities, and admission requirements to discover schools that match their specific needs to aid informed decision-making.
